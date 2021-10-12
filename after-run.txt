@@ -73,8 +73,6 @@ package:com.android.theme.icon_pack.rounded.themepicker
 package:com.android.vpndialogs
 package:com.android.wallpaper.livepicker
 package:com.android.wifi.resources
-package:com.artifex.mupdf.mini.app
-package:com.aurora.store
 package:com.google.android.apps.carrier.carrierwifi
 package:com.google.android.captiveportallogin
 package:com.google.android.cellbroadcastservice
@@ -105,7 +103,6 @@ package:com.qualcomm.qti.gpudrivers.kona.api30
 package:com.qualcomm.qti.services.secureui
 package:com.qualcomm.qti.smq
 package:com.qualcomm.timeservice
-package:com.rhmsoft.edit
 package:com.samsung.accessibility
 package:com.samsung.advp.imssettings
 package:com.samsung.android.MtpApplication
@@ -161,12 +158,6 @@ package:com.sec.imsservice
 package:com.sec.location.nfwlocationprivacy
 package:com.sec.providers.assisteddialing
 package:com.sec.unifiedwfc
-package:com.simplemobiletools.smsmessenger
-package:com.termux
 package:com.test.LTEfunctionality
 package:com.ws.dm
-package:de.baumann.browser
-package:de.tutao.tutanota
-package:nextapp.fx
-package:org.fdroid.fdroid
 package:vendor.qti.hardware.cacert.server
