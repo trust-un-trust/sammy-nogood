@@ -106,7 +106,6 @@ package:com.android.wallpaper.livepicker
 package:com.android.wallpaperbackup
 package:com.android.wallpapercropper
 package:com.android.wifi.resources
-package:com.artifex.mupdf.mini.app
 package:com.att.android.attsmartwifi
 package:com.att.callprotect
 package:com.att.csoiam.mobilekey
@@ -116,7 +115,6 @@ package:com.att.mobilesecurity
 package:com.att.myWireless
 package:com.att.personalcloud
 package:com.att.tv
-package:com.aurora.store
 package:com.diotek.sec.lookup.dictionary
 package:com.dsi.ant.plugins.antplus
 package:com.dsi.ant.sample.acquirechannels
@@ -190,7 +188,6 @@ package:com.qualcomm.qti.gpudrivers.kona.api30
 package:com.qualcomm.qti.services.secureui
 package:com.qualcomm.qti.smq
 package:com.qualcomm.timeservice
-package:com.rhmsoft.edit
 package:com.samsung.InputEventApp
 package:com.samsung.SMT
 package:com.samsung.aasaservice
@@ -456,14 +453,9 @@ package:com.sem.factoryapp
 package:com.simplemobiletools.smsmessenger
 package:com.skms.android.agent
 package:com.synchronoss.dcs.att.r2g
-package:com.termux
 package:com.test.LTEfunctionality
 package:com.vzw.apnlib
 package:com.ws.dm
 package:com.wsomacp
-package:de.baumann.browser
-package:de.tutao.tutanota
 package:net.aetherpal.device
-package:nextapp.fx
-package:org.fdroid.fdroid
 package:vendor.qti.hardware.cacert.server
