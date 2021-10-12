@@ -1,3 +1,7 @@
+# from cmd: adb shell pm list packages -a -u | sort >> list-before-changes.txt
+
+# also if you're in vim, you can run :%s/^.*: to remove the prepended 'package:' if you want just the names.
+
 package:android
 package:android.auto_generated_rro_product__
 package:android.auto_generated_rro_vendor__
