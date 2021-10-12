@@ -1,4 +1,4 @@
-# tested 10.12.21 - result pending
+# tested 10.12.21 - result success
 
 adb shell pm uninstall --user 0 android.auto_generated_rro_product__
 adb shell pm uninstall --user 0 android.auto_generated_rro_vendor__
